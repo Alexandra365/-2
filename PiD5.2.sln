@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiD5.2", "PiD5.2.csproj", "{0A59908E-0522-45EE-8906-0AE75C7B69FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A59908E-0522-45EE-8906-0AE75C7B69FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A59908E-0522-45EE-8906-0AE75C7B69FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A59908E-0522-45EE-8906-0AE75C7B69FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A59908E-0522-45EE-8906-0AE75C7B69FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81975A3D-FD65-4D42-829B-7D22689EE20E}
+	EndGlobalSection
+EndGlobal
